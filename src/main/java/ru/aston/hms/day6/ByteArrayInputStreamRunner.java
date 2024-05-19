@@ -1,4 +1,4 @@
-package day6;
+package ru.aston.hms.day6;
 
 import java.io.ByteArrayInputStream;
 

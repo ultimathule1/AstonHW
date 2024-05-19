@@ -1,4 +1,4 @@
-package day6.Homework_NIO;
+package ru.aston.hms.day6.Homework_NIO;
 
 import java.io.IOException;
 import java.nio.file.Files;
